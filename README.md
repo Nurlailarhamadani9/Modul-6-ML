@@ -14,8 +14,7 @@ Menggunakan Model VGG19, melakukan Image Generator dengan melakukan 10 epoch
 
 - Summary Model VGG19
 
-  <img src="images/Model VGG19(1).png" width="500"/>
-  <img src="images/Model VGG19(2).png" width="500"/>
+  <img src="images/Model VGG19.png" width="500"/>
 
 - Summary Model yang sudah terhubung sepenuhnya
 
@@ -32,6 +31,6 @@ VGG19 adalah model arsitektur Convolutional Neural Network (CNN) yang dikenal lu
 # *Akurasi* 
 akurasi yang di dapatkan adalah
 
-Accuracy: 100.00%
+Accuracy: 99.84%
 
-Loss: 0.0021585780195891857
+Loss: 0.005951832514256239
